@@ -16,3 +16,4 @@ Analysis of the profitability of a discount coupon for a VTC service
 * Conversion Rate calculation
 * ROI calculation
 
+*NB: Can't include Datasets because of too large size*
